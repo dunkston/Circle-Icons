@@ -1,2 +1,3 @@
 # Circle-Icons
-Transforms your app icons into circles!
+### Created by dunkston
+**Description:** Transforms your app icons into circles!

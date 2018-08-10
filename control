@@ -1,0 +1,9 @@
+Package: com.dunkston.circleicons
+Name: Circle Icons
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Transforms your app icons into circles!
+Maintainer: dunkston
+Author: dunkston
+Section: Tweaks
